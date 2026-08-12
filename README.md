@@ -25,3 +25,16 @@ SaaS_Cohort_Analysis.ipynb — full Python analysis notebook
 SaaS_Cohort_Dashboard.pbix — Power BI dashboard
 customers.csv, subscriptions.csv, revenue.csv — source data
 retention_pct.csv, mrr_trend.csv, revenue_by_plan.csv, ltv_cac.csv — cleaned outputs used in the dashboard
+Power BI Dashboard
+
+The Power BI dashboard provides an interactive view of SaaS revenue, cohort retention, revenue by subscription plan, and LTV:CAC performance.
+
+"SaaS Revenue & Cohort Retention Dashboard" (dashboard.png)
+
+Dashboard Includes
+
+- Monthly Recurring Revenue (MRR) trend
+- Cohort retention analysis
+- Revenue by subscription plan
+- LTV:CAC ratio by plan type
+- Overall SaaS revenue analysis

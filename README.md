@@ -29,7 +29,7 @@ Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of SaaS revenue, cohort retention, revenue by subscription plan, and LTV:CAC performance.
 
-![SaaS Revenue & Cohort Retention Dashboard] (SaaS_Cohort_dashboard_preview.png)
+![SaaS Revenue & Cohort Retention Dashboard](SaaS_Cohort_dashboard_preview.png)
 
 Dashboard Includes
 
